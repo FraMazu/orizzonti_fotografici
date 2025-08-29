@@ -1,11 +1,3 @@
-Certamente. Ho riscritto la guida dal punto di vista di un utente che utilizzerà un eseguibile (`.exe` o `.app`) con un semplice doppio clic, senza mai toccare il terminale o comandi come `pip`.
-
-Ho messo in evidenza l'interfaccia a menu numerico come standard, ho aggiunto una sezione sul primo avvio (importante per le autorizzazioni di sicurezza di Windows/macOS) e ho aggiornato le FAQ.
-
-Ecco la nuova guida, pronta per essere inclusa con i tuoi file eseguibili.
-
------
-
 # 🚀 Orizzonti Fotografici: Guida alla Gestione Concorsi
 
 Benvenuto\! Questo strumento è stato creato per rendere la gestione dei tuoi concorsi fotografici semplice e automatica. Dimentica la creazione manuale di cartelle e fogli di calcolo: questo programma si occupa di tutto, dalla preparazione dei materiali per la giuria alla classifica finale.
@@ -20,8 +12,8 @@ Lo strumento è un'applicazione autonoma. Non serve installare nulla.
 
 1.  **Scarica il File Corretto:**
 
-      - Per **Windows**, scarica il file `.exe`.
-      - Per **macOS**, scarica il file `.app` (o l'eseguibile fornito).
+      - Per **Windows**, scarica il file `.exe` nella cartella `WIN`.
+      - Per **macOS**, scarica il file `.app` nella cartella `MAC`.
 
 2.  **Primo Avvio (Importante\!):**
     Sia Windows che macOS potrebbero mostrare un avviso di sicurezza la prima volta che avvii il programma, perché non è scaricato dai loro App Store ufficiali.
