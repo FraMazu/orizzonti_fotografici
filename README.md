@@ -133,6 +133,8 @@ Una volta impostati i criteri e aggiunte le foto, puoi creare il pacchetto per l
 3.  **Risultati Pronti\!** Vai nella cartella `leaderboard` per trovare:
       * **`classifica.csv`**: La classifica completa in formato tabellare.
       * **`classifica.pptx`**: Una presentazione pronta per la proiezione con i vincitori dal 10° al 1° posto.
+      * **`ordered.pptx`**: Una presentazione di tutte le foto in ordine alfabetico per autore.
+      * **`random.pptx`**: Una presentazione di tutte le foto in ordine randomico, prima tutte quelle oltre al 10° posto, poi le altre.
 
 -----
 
